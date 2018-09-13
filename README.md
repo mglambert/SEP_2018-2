@@ -6,3 +6,4 @@ Sistemas Electronicos programables, en los cuales se obtuvo el siguiente desempe
 * Lab2: D
 * Lab3: D
 * Lab4: D
+* Lab5: D
