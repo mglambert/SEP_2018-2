@@ -9,10 +9,11 @@ Sistemas Electronicos programables, en los cuales se obtuvo el siguiente desempe
 * Lab5: Distinguido
 * Lab6: Distinguido
 * Lab7: Distinguido
+* Lab8: Distinguido
 
 
 ## Tarjetas utilizadas
 
 <p align="center">
-  <img src="img/tarjetas.JPG" width="350">
+  <img src="img/tarjetas.JPG" width="450">
 </p>
