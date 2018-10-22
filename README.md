@@ -10,6 +10,9 @@ Sistemas Electronicos programables, en los cuales se obtuvo el siguiente desempe
 * Lab6: Distinguido
 * Lab7: Distinguido
 * Lab8: Distinguido
+* Lab9: Distinguido
+* Lab10: Distinguido
+
 
 
 ## Tarjetas utilizadas
