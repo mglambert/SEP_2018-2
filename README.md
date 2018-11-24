@@ -14,6 +14,7 @@ Sistemas Electronicos programables, en los cuales se obtuvo el siguiente desempe
 * Lab10: Distinguido
 * Lab11: Distinguido
 * Lab12: Distinguido
+* Lab13: Distinguido
 
 
 
