@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=Gate Motor Interface
+Exec=bash -c "cd `dirname %k`/src; python main.py"
+Icon=/usr/share/icons/gnome/256x256/categories/applications-system.png
+Terminal=false
+Type=Application
